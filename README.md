@@ -7,4 +7,5 @@ Technical Stack:
   
 Key Insights :"Sales show a clear trend based on day of the week, with higher activity noted early in the week" .  "Payment method distribution is evenly balanced, suggesting a diverse customer base in terms of payment preference" .  
 
-<img width="628" height="32" alt="Screenshot 2026-06-26 131553" src="https://github.com/user-attachments/assets/883bb6d5-b441-45b4-82d4-d25d3edd79c7" />
+<img width="1347" height="746" alt="Screenshot 2026-07-05 205032" src="https://github.com/user-attachments/assets/f27c76ef-41cd-45a2-a10e-52deae24ba82" />
+
