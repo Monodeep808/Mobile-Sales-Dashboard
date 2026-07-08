@@ -6,3 +6,5 @@ Technical Stack:
   Visualization: Power BI (Dashboard design, DAX, Interactive Filters).
   
 Key Insights :"Sales show a clear trend based on day of the week, with higher activity noted early in the week" .  "Payment method distribution is evenly balanced, suggesting a diverse customer base in terms of payment preference" .  
+
+<img width="628" height="32" alt="Screenshot 2026-06-26 131553" src="https://github.com/user-attachments/assets/883bb6d5-b441-45b4-82d4-d25d3edd79c7" />
